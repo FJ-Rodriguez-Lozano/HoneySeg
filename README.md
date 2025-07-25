@@ -24,7 +24,11 @@ IEEE: ...
 APA: ...
 
 ## How to use de application
-Below is a video tutorial on how to use the application.
+Below is a video tutorial on how to use the application. However, due to that deep learning mode exceeds the max file size to store in the repository, the model must be downloaded from the following link:
+
+[Link](https://1drv.ms/u/c/3a538c934cdf7395/EdeHZkOh7vBHjv3g-irZ-PgBSJtnXYzFM41TsiVSBp3jUQ?e=PFQ6LA)
+
+Please include the downloaded .keras model in the directory “defaults/honeyModels/efficientnetb2-FPN.keras.”
 
 https://github.com/user-attachments/assets/60619608-7237-4474-8bcc-82a359f7737b
 
