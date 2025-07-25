@@ -1,0 +1,6 @@
+keras==2.10.0
+numpy==2.0.0
+opencv_contrib_python==4.10.0.84
+Pillow==11.0.0
+segmentation_models==1.0.1
+tensorflow==2.10.0
