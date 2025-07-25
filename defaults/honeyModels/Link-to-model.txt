@@ -1,5 +1,5 @@
 Due to the file size being too large to store in the repository, the model must be downloaded from the following link:
 
-[Link](https://1drv.ms/u/c/3a538c934cdf7395/EdeHZkOh7vBHjv3g-irZ-PgBSJtnXYzFM41TsiVSBp3jUQ?e=PFQ6LA)
+https://1drv.ms/u/c/3a538c934cdf7395/EdeHZkOh7vBHjv3g-irZ-PgBSJtnXYzFM41TsiVSBp3jUQ?e=PFQ6LA
 
 Please include the downloaded model in the directory “defaults/honeyModels/efficientnetb2-FPN.keras.”
