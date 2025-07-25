@@ -21,7 +21,7 @@ IEEE: ...
 
 APA: ...
 
-## License
+## How to use de application
 Below is a video tutorial on how to use the application.
 
 https://github.com/user-attachments/assets/60619608-7237-4474-8bcc-82a359f7737b
