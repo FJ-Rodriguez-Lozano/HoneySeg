@@ -1,4 +1,5 @@
-![alt text](https://github.com/FJ-Rodriguez-Lozano/HoneySeg/tree/main/defaults/icons/icon.png?raw=true)
+![Model](https://github.com/FJ-Rodriguez-Lozano/HoneySeg/blob/main/defaults/icons/icon.png)
+
 # HoneySeg
 HoneySeg is a open-source python-based desktop application that performs honey segmentation on photographs of honeycombs designed for researchers and beekeepers.
 
